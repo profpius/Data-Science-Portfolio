@@ -17,7 +17,6 @@
 
 
 [
-l
 ![Streamlit](https://img.shields.io/badge/Deployed-Streamlit-red)
 ](https://credit-card-fraud-detection-mxpbol3zjbrgzjamc3gj4q.streamlit.app)
 
