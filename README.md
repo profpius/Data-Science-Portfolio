@@ -16,11 +16,11 @@
 ![XGBoost](https://img.shields.io/badge/Model-XGBoost-orange)
 
 
-
+[
 
 ![Streamlit](https://img.shields.io/badge/Deployed-Streamlit-red)
 
-
+](https://credit-card-fraud-detection-mxpbol3zjbrgzjamc3gj4q.streamlit.app)
 
 Built a fraud detection system on 284,807 transactions (0.17% fraud rate).
 Addressed class imbalance via scale_pos_weight tuning rather than SMOTE.
@@ -29,7 +29,6 @@ Streamlit deployment.
 
 **Key metrics:** ROC-AUC 0.9725  
 **Tools:** Python, XGBoost, SHAP, Streamlit, Scikit-learn  
-**Live Demo:** [Open App](https://credit-card-fraud-detection-mxpbol3zjbrgzjamc3gj4q.streamlit.app)  
 **Repo:** [credit-card-fraud-detection](https://github.com/profpius/credit-card-fraud-detection)
 
 ---
@@ -45,11 +44,11 @@ Streamlit deployment.
 ![XGBoost](https://img.shields.io/badge/Model-XGBoost-orange)
 
 
-
+[
 
 ![Streamlit](https://img.shields.io/badge/Deployed-Streamlit-red)
 
-
+](https://customer-churn-prediction-pius.streamlit.app)
 
 End-to-end churn prediction pipeline on ~37,000 customer records. Custom
 sklearn transformer and TargetEncoder embedded in a full Pipeline. Supports
@@ -57,7 +56,6 @@ single-record and batch prediction via Streamlit app.
 
 **Key metrics:** F1 94.01% | ROC-AUC 97.60%  
 **Tools:** Python, XGBoost, SHAP, Streamlit, Scikit-learn  
-**Live Demo:** [Open App](https://customer-churn-prediction-pius.streamlit.app)  
 **Repo:** [customer-churn-prediction](https://github.com/profpius/customer-churn-prediction)
 
 ---
