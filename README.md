@@ -17,9 +17,8 @@
 
 
 [
-
+l
 ![Streamlit](https://img.shields.io/badge/Deployed-Streamlit-red)
-
 ](https://credit-card-fraud-detection-mxpbol3zjbrgzjamc3gj4q.streamlit.app)
 
 Built a fraud detection system on 284,807 transactions (0.17% fraud rate).
@@ -45,9 +44,7 @@ Streamlit deployment.
 
 
 [
-
 ![Streamlit](https://img.shields.io/badge/Deployed-Streamlit-red)
-
 ](https://customer-churn-prediction-pius.streamlit.app)
 
 End-to-end churn prediction pipeline on ~37,000 customer records. Custom
