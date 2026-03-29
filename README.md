@@ -8,7 +8,7 @@
 ### 1. FraudShield: Credit Card Fraud Detection
 
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
 
 
 
@@ -34,7 +34,7 @@ Streamlit deployment.
 ### 2. Customer Churn Prediction
 
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
 
 
 
