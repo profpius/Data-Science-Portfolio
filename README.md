@@ -54,6 +54,21 @@ single-record and batch prediction via Streamlit app.
 **Tools:** Python, XGBoost, SHAP, Streamlit, Scikit-learn  
 **Repo:** [customer-churn-prediction](https://github.com/profpius/customer-churn-prediction)
 
+
+---
+
+### 3. Customer Segmentation: RFM Analysis & KMeans Clustering
+
+![Python](https://img.shields.io/badge/Python-3.13-blue?style=flat-square)
+![Model](https://img.shields.io/badge/Model-KMeans-orange?style=flat-square)
+[![Deployed](https://img.shields.io/badge/Deployed-Streamlit-red?style=flat-square&logo=streamlit)](https://customer-segmentation-pius.streamlit.app/)
+
+End-to-end customer segmentation pipeline on ~5,800 customers using RFM feature engineering and KMeans clustering. Includes outlier handling, log transformation, and a full sklearn preprocessing pipeline. Supports single-record and batch prediction via Streamlit app.
+
+**Key metrics:** Silhouette Score 0.3707 (K=4) | 4 Segments: Champions, Promising, At Risk, Lost/Inactive  
+**Tools:** Python, Scikit-learn, Streamlit, pandas, matplotlib, seaborn, joblib  
+**Repo:** [customer-segmentation](https://github.com/profpius/customer-segmentation)
+
 ---
 
 ## Connect
